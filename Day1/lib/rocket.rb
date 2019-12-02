@@ -1,7 +1,13 @@
-class Fuel_calculator
+require_relative '../input.rb'
 
-  def fuel(n)
-    (n / 3).floor - 2
+class Rocket
+
+  def fuel_calculator
+    @fuel = Masses.input.map { |n| (n / 3).floor - 2 }
+  end
+
+  def counter
+    @fuel.sum
   end
 
 end
