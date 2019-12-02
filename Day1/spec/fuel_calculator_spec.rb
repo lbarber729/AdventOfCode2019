@@ -1,1 +1,0 @@
-require 'fuel_calculator'
