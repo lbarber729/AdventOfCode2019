@@ -9,3 +9,19 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 [Day 1: The Tyranny of the Rocket Equation](https://github.com/lbarber729/AdventOfCode2019/tree/master/Day1)
 
 [Day 2: 1202 Program Alarm](https://github.com/lbarber729/AdventOfCode2019/tree/master/Day2)
+
+[Day 3: Crossed Wires](https://github.com/lbarber729/AdventOfCode2019/tree/master/Day3)
+
+[Day 4: Secure Container](https://github.com/lbarber729/AdventOfCode2019/tree/master/Day4)
+
+[Day 5:  Sunny with a Chance of Asteroids](https://github.com/lbarber729/AdventOfCode2019/tree/master/Day5)
+
+[Day 6: Universal Orbit Map](https://github.com/lbarber729/AdventOfCode2019/tree/master/Day6)
+
+[Day 7: Amplification Circuit](https://github.com/lbarber729/AdventOfCode2019/tree/master/Day7)
+
+[Day 8: Space Image Format](https://github.com/lbarber729/AdventOfCode2019/tree/master/Day8)
+
+[Day 9: Sensor Boost](https://github.com/lbarber729/AdventOfCode2019/tree/master/Day9)
+
+[Day 10: Monitoring Station](https://github.com/lbarber729/AdventOfCode2019/tree/master/Day10)
